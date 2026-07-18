@@ -1,0 +1,9 @@
+---
+- name: Prueba
+  hosts: localhost
+  connection: local
+
+  tasks:
+    - name: Hola mundo
+      ansible.builtin.debug:
+        msg: "¡Ansible funciona!"
