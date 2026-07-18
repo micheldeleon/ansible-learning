@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+# Logs
+*.log
+*.retry
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+vault_pass.txt
