@@ -11,4 +11,4 @@ __pycache__/
 
 # Secrets
 .env
-vault_pass.txt
+vault_pass.txtt
